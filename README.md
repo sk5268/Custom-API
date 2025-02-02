@@ -61,6 +61,7 @@ python client.py 25
 ```
 
 Output:
-```
-John Doe : 8.75
-```
+
+| Name     | SGPA  |
+|----------|-------|
+| John Doe | 8.75  |
