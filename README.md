@@ -2,6 +2,8 @@
 
 This project consists of a simple Flask-based API server and a client script to interact with it. The API server accepts a hall ticket number, makes a request to an University Results server, and returns the name and SGPA of the student.
 
+![Architecure Diagram](./Application Architecture.png)
+
 ## History
 I created this custom API to showcase how an API functions, for my university assignment.
 
