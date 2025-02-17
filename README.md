@@ -31,12 +31,14 @@ I created this custom API to demonstrate how an API functions, for my university
 
 ### Running the Server
 
-1. Navigate to the project directory:
+1. Open Terminal.
+
+2. Navigate to the project directory:
     ```sh
     cd /project-directory/
     ```
 
-2. Start the Flask server:
+3. Start the Flask server:
     ```sh
     python server.py
     ```
