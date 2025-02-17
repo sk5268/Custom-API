@@ -6,7 +6,7 @@ This project consists of a simple Flask-based API server and a client script to 
 
 
 ## History
-I created this custom API to showcase how an API functions, for my university assignment.
+I created this custom API to demonstrate how an API functions, for my university assignment.
 
 ## Prerequisites
 
